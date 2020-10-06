@@ -1,0 +1,23 @@
+{
+  "name": "ayd2_backend_2",
+  "version": "1.0.0",
+  "description": "backend de proyecto de analisis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrisAlva25/AYD2_BACKEND_2.git"
+  },
+  "keywords": [
+    "backend",
+    "usac"
+  ],
+  "author": "cristian alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrisAlva25/AYD2_BACKEND_2/issues"
+  },
+  "homepage": "https://github.com/CrisAlva25/AYD2_BACKEND_2#readme"
+}
